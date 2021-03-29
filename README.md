@@ -7,6 +7,6 @@
 
 - 💬 Ask me about **react native, expo, express, python, openGL**
 
-- 📫 How to reach me **isabelsalesdca@gmail.com**
+- 📫 How to reach me **isabel.sales@outlook.com.br**
 
 - ⚡ More about me **https://slesbel.github.io/curriculum/**
