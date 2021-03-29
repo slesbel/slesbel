@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **isabel.sales@outlook.com.br**
 
-- ⚡ More about me **https://slesbel.github.io/curriculum/**
+- ⚡ More about me ** https://slesbel.github.io/about-me/**
