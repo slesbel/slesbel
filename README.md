@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/slesbel](https://github.com/slesbel)
 
-- 💬 Ask me about **react native, expo, express, python, openGL, docker**
+- 💬 Ask me about **react native, expo, express, swagger, python, openGL, docker**
 
 - 📫 How to reach me **isabel.sales@outlook.com.br**
 
