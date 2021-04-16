@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/slesbel](https://github.com/slesbel)
 
-- 💬 Ask me about **react native, react, node, typescript, python, openCV**
+- 💬 Ask me about **react native, react, node, python, openCV**
 
 - 📫 How to reach me **isabel.sales@outlook.com.br**
 
