@@ -14,10 +14,10 @@ class Skills extends Developer {
 
 <p align="left">
   <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-FF0000?style=flat-square&labelColor=FF0000&logo=outlook&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Outlook-FF0000?style=flat-square&labelColor=a5c3ec&logo=outlook&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-25d366?style=flat-square&labelColor=25d366&logo=telegram&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/-Telegram-25d366?style=flat-square&labelColor=a7d4ea&logo=telegram&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
