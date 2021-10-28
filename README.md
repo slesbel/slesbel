@@ -3,7 +3,6 @@ import Developer from 'Isabel';
 
 class AboutMe extends Developer {
   occupation = 'Software developer';
-  city = 'Rio de Janeiro';
   interests = ['Computer Vision', 'Image Processing', 'IOT'];
 }
 
