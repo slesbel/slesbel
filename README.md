@@ -7,7 +7,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['Javascript', 'TypeScript', 'React', 'React Native', 'Python', 'Django', 'TensorFlow', 'Nodejs','Flutter'];
+  languages  = ['Javascript', 'TypeScript', 'React', 'React Native', 'Python', 'Django', 'TensorFlow', 'Nodejs', 'Elixir', 'Flutter'];
 }
 ```
 
